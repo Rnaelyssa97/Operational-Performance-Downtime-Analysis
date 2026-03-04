@@ -82,6 +82,7 @@ Déséquilibre entre les quarts de travail
 Quart de nuit : 57% de la production
 
 Quart de jour : 43%
+
 3️⃣ Spécialisation des machines
 
 M01 → forte production produit C
