@@ -1,7 +1,7 @@
 # Operational-Performance-Downtime-Analysis
 This project simulates a manufacturing environment where production efficiency, machine utilization, and downtime significantly impact operational performance. The objective was to analyze production data and identify bottlenecks affecting productivity.
 <img width="1131" height="608" alt="image" src="https://github.com/user-attachments/assets/0e7adeb9-85ee-4ccc-87dd-286cd164f69c" />
-Contexte
+**Contexte**
 
 Ce projet simule l’environnement d’une entreprise manufacturière cherchant à améliorer sa performance opérationnelle.
 L’organisation souhaite analyser :
@@ -34,7 +34,7 @@ La question principale :
 Quels sont les facteurs impactant la performance opérationnelle et où se situent les principaux leviers d’amélioration ?
 Outils et méthodologie
 
-Outils utilisés :
+**Outils utilisés :**
 
 Power BI
 
@@ -44,7 +44,7 @@ Modélisation de données
 
 
 
-Méthodologie :
+**Méthodologie :**
 
 Création du data base
 
@@ -55,7 +55,8 @@ Construction d’un modèle relationnel
 Création de visualisations orientées prise de décision
 
 Analyse des tendances et identification des anomalies
-Indicateurs clés de performance (KPIs)
+
+**Indicateurs clés de performance (KPIs)**
 
 Total Production : 21K
 
@@ -70,7 +71,9 @@ Production par machine
 Production par quart (jour / nuit)
 
 Production journalière
-Résultats et insights clés
+
+
+**Résultats et insights clés**
 1️⃣ Downtime élevé (32%)
 
 Le temps d’arrêt représente près d’un tiers du temps total, ce qui constitue le principal facteur limitant la capacité de production.
@@ -91,14 +94,14 @@ M02 → production plus équilibrée
 
 La production quotidienne présente des fluctuations importantes.
 
-Recommandations d’amélioration
-🔧 Maintenance
+**Recommandations d’amélioration**
+ Maintenance
 
 Mettre en place un plan de maintenance préventive
 
 Analyser les causes principales de downtime (Pareto)
 
-⚙️ Optimisation des opérations
+ Optimisation des opérations
 
 Standardiser les procédures entre les quarts
 
@@ -106,7 +109,7 @@ Analyser la performance par opérateur
 
 Rééquilibrer la charge de production
 
-Impact potentiel 
+**Impact potentiel**
 
 Une réduction de 10% du downtime pourrait :
 
